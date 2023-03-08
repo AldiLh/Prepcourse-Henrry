@@ -1,2 +1,1 @@
-# Prepcourse-Henrry
-Repo de prueba del mod 2 Henrry
+Prueba de como crear un repo y clonarlo desde github a mi pc
